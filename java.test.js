@@ -1,0 +1,1 @@
+const java = require('/jave')

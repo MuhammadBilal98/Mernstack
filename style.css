@@ -1,0 +1,38 @@
+h1{
+    color :rgb(204, 0, 255);
+}
+
+#header1 {
+    border: 2px dashed green;
+    border-width: medium;
+    color: green;
+}
+img{
+    border: 2px solid blue;
+    
+}
+#blog > h1{
+    margin: 2px;
+    color:rgb(255, 0, 0);
+    background-color: yellow ;
+
+}
+
+#p1  {
+    text-align: ;
+}
+​
+
+.parent {
+    border: 20px solid rgb(191, 13, 13);
+  
+  
+}
+img{
+    width: 120px;
+    height: 100px;
+
+}
+.child {
+    float: right;
+  }
